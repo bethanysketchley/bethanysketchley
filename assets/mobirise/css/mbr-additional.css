@@ -879,7 +879,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #635a51;
 }
 .cid-rUg7lo41Bg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1212,8 +1212,8 @@ section.lazy-placeholder:after {
   color: #676767;
 }
 .cid-rUoSykSglY {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rUoSykSglY .row-links {
@@ -1476,7 +1476,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #635a51;
 }
 .cid-rUg7lo41Bg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1708,6 +1708,18 @@ section.lazy-placeholder:after {
 .cid-rUg7lo41Bg .nav-link:hover,
 .cid-rUg7lo41Bg .dropdown-item:hover {
   color: #ebafa2 !important;
+}
+.cid-rUUxpM5O7m {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rUUxpM5O7m .mbr-text,
+.cid-rUUxpM5O7m blockquote {
+  color: #767676;
+}
+.cid-rUUxpM5O7m .mbr-text P {
+  text-align: center;
 }
 .cid-rUgfIzWPIZ {
   background: #ffffff;
@@ -1980,7 +1992,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rUoWswrBJE button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2662,7 +2674,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rUg7lo41Bg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3169,7 +3181,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rUg7lo41Bg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3875,7 +3887,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #4f4943;
 }
 .cid-rUg7lo41Bg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
